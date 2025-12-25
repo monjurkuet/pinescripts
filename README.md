@@ -24,6 +24,7 @@ Built for **serious traders, quants, and developers** who value clarity, structu
 - ✅ Indicator-only (no auto trading)
 - ✅ Crypto, Forex, Indices compatible
 - ✅ Liquidity-first, confirmation-based logic
+- ⭐ Quantitative Pivot Strategy (QPS) – flagship liquidity-based indicator
 
 ---
 
